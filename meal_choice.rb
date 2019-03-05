@@ -2,6 +2,6 @@
 # passed into it and defaults to meat.
 
 def meal_choice(value = "meat")
+    binding.pry
   value
-  binding.pry
 end
